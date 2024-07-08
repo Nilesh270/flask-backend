@@ -6,3 +6,4 @@ tensorflow
 flax
 ipython
 googletrans
+flask-cors
